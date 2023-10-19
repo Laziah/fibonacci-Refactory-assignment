@@ -1,5 +1,5 @@
 # test_fibonacci.py
-from fibonacci import fibonacci  # Replace 'your_module' with the actual name of your module
+from fibonacci import fibonacci  
 
 def test_fibonacci_negative():
     result = fibonacci(-1)
